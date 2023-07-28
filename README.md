@@ -1,3 +1,8 @@
 # Esp32-Simple-Lamp
 
-simple code for flip-flop at esp32 
+simple code for blink led at esp32 
+
+what i used?
+ESP32 FM DevKit
+Arduino IDE latest version
+Led RGB 
